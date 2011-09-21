@@ -17,6 +17,6 @@ See http://ebible.com/ for more information about eBible.
 
 Installing the eBible plugin is very straight forward
 
-1. Upload the attached ebibleicious.php file to the wp-content/plugins directory
+1. Upload the attached ebible.php file to the wp-content/plugins directory
 1. Activate it from the Plugin Panel in your Admin interface
 1. Do a test post including a reference such as "Genesis 1:1-6" and check that everything is working.
